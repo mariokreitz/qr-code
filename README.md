@@ -1,4 +1,4 @@
-# QR Code Component
+# QR Code Component [![Netlify Status](https://api.netlify.com/api/v1/badges/7d8d8fb3-6088-4539-8baa-f33940d90940/deploy-status)](https://app.netlify.com/sites/qr-quiz-fm/deploys)
 
 ![QR Code Design](https://raw.githubusercontent.com/mariokreitz/qr-code/main/preview.jpg)
 
